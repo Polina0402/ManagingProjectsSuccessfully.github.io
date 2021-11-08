@@ -5,7 +5,7 @@ author: Polina0402
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Verantwortlichkeiten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Test Kurzbeschreibung zu Verantwortlichkeiten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
