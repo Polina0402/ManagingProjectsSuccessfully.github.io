@@ -33,10 +33,10 @@ Verantwortung liegt dem Kongruenzprinzip zugrunde, besteht also aus drei nicht t
 Jedes Projekt hat eine für das Projekt verantwortliche Person. Doch die Verteilung dieser Verantwortung kann variieren.
 Beim Einfluss auf die Verantwortlichkeit spielen verschiedene Faktoren eine wichtige Rolle und zeigen voraus wie gut die Ergebnisse sein werden, die ein Projekt erreicht.
 
-## Klare Übertragung der Verantwortung
+### Klare Übertragung der Verantwortung
 Der erste wichtige Punkt bei der Verantwortlichkeit ist es eine Konkrete **Übertragung der Verantwortung** klarzumachen. Eine unverbindliche Übertragung kann unter gehen und nicht ernst genommen werden, sodass Projekte zugrunde gehen können. Zusätzlich benötigt man für eine klare Übertragung auch eine offensichtliche Bestätigung des Gegenübers, dem man die Verantwortung übergibt. [^5] [^6]
 
-## Sinnvolle Aufspaltung der Verantwortung
+### Sinnvolle Aufspaltung der Verantwortung
 Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist die **Anzahl der Menschen**, denen die Verantwortung gegeben ist. Je mehr Menschen, desto aufgespaltener ist die Verantwortung und desto mehr Menschen verspüren folglich auch kaum Verantwortung. Jeder nimmt an, der andere denkt mit und so kommt es zu [klassischen Missverständnissen](Klassische_Missverstaendnisse.md), Konflikten und Fehlern. Außerdem kann es passieren, dass man zu viel Einfluss auf die eigene Entscheidung von außen bekommt und dieser dann zu Unsicherheit führt. [^5]
 
 ![Bild 2](Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png)
@@ -55,8 +55,8 @@ Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
 | ---      | ---       |
 | Projektauftraggeber | Trägt die Gesamtverantwortung für das Projekt. Repräsentiert das Projekt der Firma/des Unternehmens. |
 | [Projektleiter](Projektleiter.md) | Verantwortlich für das Umsetzen des Projektes mit zu beachtenden Zielen (oft zeitliche Ziele) unter stetiger Kontaktaufnahme zum Projektauftraggeber. |
-| Teilprojektleiter | Verantwortlich für Teilprojekte des Projektleiters. |
-| [Projektmitarbeiter](Projektmitarbeiter.md) | Verantwortlich für das aktive Erreichen der Ziele durch das Erledigen der Arbeit (hier sieht man die Aufteilung der Verantwortlichkeit am deutlichsten). | 
+| Teilprojektleiter | Zuständig für Teilprojekte des Projektleiters. |
+| [Projektmitarbeiter](Projektmitarbeiter.md) | Für das aktive Erreichen der Ziele durch das Erledigen der Arbeit da (hier sieht man die Aufteilung der Verantwortlichkeit am deutlichsten). | 
 
 # Siehe auch
 
