@@ -42,7 +42,7 @@ Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist
 
 ![Bild 2](Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png) 
 
-*Alle wollen Verantwortung übertragen*[^6]
+*Alle wollen Verantwortung übertragen* [^6]
 
 > Management bedeutet Verantwortung für Ergebnisse 
 [^7]
